@@ -1,2 +1,0 @@
-# porondeeuvou
-Projeto de estudo
